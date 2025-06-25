@@ -1,2 +1,2 @@
 # Trabalhos-Univesit-rios
-Trabalhos da UFC
+Aqui posto algumas atividades realizadas em minha faculdade,onde curso SI na UFC
